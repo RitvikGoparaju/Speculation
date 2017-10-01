@@ -1,4 +1,4 @@
 # Speculation 
 Project using Dynamic Programming Technique
-## Data Structure :
+### Data Structures :
 3-D MATRIX ,VECTORS
